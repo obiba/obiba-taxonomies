@@ -2,7 +2,7 @@ name: "onyx"
 title:
   en: "OBiBa - Onyx"
 description:
-  en: "Onyx variable taxonomy."
+  en: "Onyx variable taxonomy"
 vocabularies:
 - name: "stage"
   title:

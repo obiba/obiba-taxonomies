@@ -1,6 +1,6 @@
-name: "default"
+name: "Default"
 title:
-  en: "OBiBa - Default"
+  en: "Default"
 description:
   en: "Default variable taxonomy."
 vocabularies:

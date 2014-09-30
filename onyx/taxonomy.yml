@@ -2,7 +2,7 @@ name: "Onyx"
 title:
   en: "Onyx"
 description:
-  en: "Onyx variable taxonomy."
+  en: "Onyx variable taxonomy"
 vocabularies:
 - name: "stage"
   title:

@@ -2,15 +2,15 @@ name: "Default"
 title:
   en: "Default"
 description:
-  en: "Default variable taxonomy."
+  en: "Default variable taxonomy"
 vocabularies:
 - name: "label"
   title:
     en: "Label"
   description:
-    en: "Label of the variable, can be the question that was asked or the short description of the measure that was taken."
+    en: "Label of the variable, can be the question that was asked or the short description of the measure that was taken"
 - name: "description"
   title:
     en: "Description"
   description:
-    en: "Description of the variable, can be the context of the question that was asked or the description of the measure that was taken."
+    en: "Description of the variable, can be the context of the question that was asked or the description of the measure that was taken"

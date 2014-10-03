@@ -14,3 +14,39 @@ vocabularies:
     en: "Description"
   description:
     en: "Description of the variable, can be the context of the question that was asked or the description of the measure that was taken"
+- name: "stage"
+  title:
+    en: "Stage"
+  description:
+    en: "Onyx's stage in which the data was captured"
+- name: "page"
+  title:
+    en: "Page"
+  description:
+    en: "Page name in the questionnaire"
+- name: "questionnaire"
+  title:
+    en: "Questionnaire"
+  description:
+    en: "Questionnaire name"
+- name: "required"
+  title:
+    en: "Required"
+  description:
+    en: "Answer was required"
+  terms:
+  - name: "true"
+    title:
+      en: "Yes"
+    description:
+      en: "Answer is required"
+  - name: "false"
+    title:
+      en: "No"
+    description:
+      en: "Answer is not required"
+- name: "section"
+  title:
+    en: "Section"
+  description:
+    en: "Section name in the questionnaire"

@@ -33,7 +33,7 @@ vocabularies:
   title:
     en: "Required"
   description:
-    en: "Answer was required"
+    en: "Whether an answer was required"
   terms:
   - name: "true"
     title:
